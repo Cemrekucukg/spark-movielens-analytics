@@ -45,17 +45,19 @@ Main files included:
 ## 5. How to Run
 
 ### Run Locally
+
 ```bash
 pip install pyspark pandas matplotlib
 python spark-movielens.ipynb
-### Run on Google Colab
-
-1. Upload the notebook to Colab.  
+```
+### Run on Colab
+1. Upload the notebook to Colab.
 2. Install dependencies:
    ```python
    !pip install pyspark pandas matplotlib
-3. Execute the cells step by step.
-```
+   ```
+3.Execute the cells step by step.
+
 
 ---
 
