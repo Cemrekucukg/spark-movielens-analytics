@@ -53,15 +53,7 @@ Run on Google Colab:
 2. Install dependencies:
 !pip install pyspark pandas matplotlib
 3. Execute the cells step by step.
-6. Project Structure
--------------------spark-movielens-analytics/
-■■■ spark-movielens.ipynb
-→ Main analysis
-notebook
-■■■ README.md
-→ Project documentation
-■■■ requirements.txt → Required Python packages
-■■■ .gitignore → Ignored files and folders
+
 ---
 Developed by Cemre Küçükgöde
 Portfolio: https://cemrekucukgode.com
