@@ -62,8 +62,8 @@ python spark-movielens.ipynb
 ---
 
 **Developed by Cemre Küçükgöde**  
-🌐 **Portfolio:** [cemrekucukgode.com](https://cemrekucukgode.com)  
-💻 **GitHub:** [github.com/Cemrekucukg](https://github.com/Cemrekucukg)  
-💼 **LinkedIn:** [linkedin.com/in/cemre-kucukgode-/](https://www.linkedin.com/in/cemre-kucukgode-/)  
-📧 **Email:** [cemrekucukg@gmail.com](mailto:cemrekucukg@gmail.com)
+🌐 [Portfolio](https://cemrekucukgode.com)  
+💼 [LinkedIn](https://linkedin.com/in/cemre-kucukgode/)  
+💻 [GitHub](https://github.com/Cemrekucukg)
+📧 [Email](mailto:cemrekucukg@gmail.com)
 
